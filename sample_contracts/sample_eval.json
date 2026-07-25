@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the initial term of the Acme MSA?",
+    "expected": "Twenty-four (24) months from the Effective Date.",
+    "contract_id": "acme_msa"
+  },
+  {
+    "question": "What is the cap on liability under the Acme MSA?",
+    "expected": "Each party's total liability is capped at the fees paid by Customer in the prior 12 months, with stated carve-outs for confidentiality, indemnification, and payment.",
+    "contract_id": "acme_msa"
+  },
+  {
+    "question": "Which state's law governs the Acme MSA?",
+    "expected": "Delaware.",
+    "contract_id": "acme_msa"
+  },
+  {
+    "question": "What is the auto-renewal notice period?",
+    "expected": "60 days prior to the end of the then-current term.",
+    "contract_id": "acme_msa"
+  }
+]

@@ -1,0 +1,45 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of March 15, 2025 ("Effective Date") by and between Acme Cloud Services, Inc., a Delaware corporation with offices at 500 Market St, San Francisco, CA ("Provider"), and Globex Corporation, a New York corporation with offices at 200 Park Ave, New York, NY ("Customer").
+
+1. SERVICES
+Provider shall provide the cloud hosting and managed database services described in one or more Statements of Work ("SOWs") executed by the parties.
+
+2. TERM
+The initial term of this Agreement is twenty-four (24) months commencing on the Effective Date. The Agreement shall automatically renew for successive twelve (12) month periods unless either party gives written notice of non-renewal at least sixty (60) days prior to the end of the then-current term.
+
+3. FEES AND PAYMENT
+Customer shall pay the fees set forth in each SOW within thirty (30) days of receipt of Provider's invoice. Late payments shall accrue interest at 1.5% per month or the maximum rate permitted by law, whichever is less.
+
+4. CONFIDENTIALITY
+Each party agrees to maintain the confidentiality of the other party's Confidential Information for a period of five (5) years following disclosure and to use such information solely to perform under this Agreement.
+
+5. INTELLECTUAL PROPERTY
+Customer assigns all right, title, and interest in any intellectual property, inventions, and work product created by Provider specifically for Customer under an SOW. Provider retains ownership of its background IP, tools, and platform.
+
+6. DATA PRIVACY
+Provider shall process Customer Personal Data in accordance with the Data Processing Addendum attached as Exhibit A and applicable laws including the GDPR and CCPA.
+
+7. WARRANTY
+Provider warrants that the Services will materially conform to the documentation. EXCEPT AS EXPRESSLY PROVIDED, PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+EXCEPT FOR BREACHES OF CONFIDENTIALITY, INDEMNIFICATION OBLIGATIONS, AND CUSTOMER'S PAYMENT OBLIGATIONS, EACH PARTY'S TOTAL LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE FEES PAID BY CUSTOMER TO PROVIDER IN THE TWELVE MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+
+9. INDEMNIFICATION
+Customer shall indemnify and defend Provider from any third-party claims arising from Customer Data or Customer's use of the Services in violation of this Agreement. Provider shall indemnify Customer against third-party claims that the Services infringe a US patent, copyright, or trademark, subject to the limits in Section 8.
+
+10. TERMINATION
+Either party may terminate this Agreement for material breach if such breach remains uncured for thirty (30) days after written notice. Upon termination, Customer shall pay all amounts accrued through the effective date of termination.
+
+11. GOVERNING LAW; DISPUTES
+This Agreement shall be governed by the laws of the State of Delaware without regard to its conflict of laws principles. Any dispute shall be resolved by binding arbitration administered by JAMS in San Francisco, California. The parties waive any right to participate in a class action.
+
+12. SERVICE LEVEL
+Provider commits to 99.9% monthly uptime. Customer's sole and exclusive remedy for any uptime shortfall is the service credits set forth in Exhibit B.
+
+13. ASSIGNMENT
+Neither party may assign this Agreement without the other party's prior written consent, except in connection with a merger, acquisition, or sale of substantially all of its assets.
+
+14. ENTIRE AGREEMENT
+This Agreement, together with all SOWs and Exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements regarding the subject matter hereof.
