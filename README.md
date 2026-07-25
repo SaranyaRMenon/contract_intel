@@ -51,5 +51,3 @@ streamlit run app.py
 
 ---
 
-
-AI & Full Stack Developer
