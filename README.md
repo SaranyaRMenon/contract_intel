@@ -43,11 +43,11 @@ This system allows users to upload legal contracts and perform intelligent analy
 * **Validation:** Pydantic
 
 
----
-⚙️ Run Locally
+
+⚙️ **Run Locally**
 pip install -r requirements.txt
 streamlit run app.py
----
+
 
 ---
 
